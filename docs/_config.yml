@@ -28,7 +28,7 @@ url: "https://sparrow-lynn.com" # the base hostname & protocol for your site, e.
 github_username:  lynnofthewired
 
 # Build settings
-theme: midnight
+theme: minima
 plugins:
   - jekyll-feed
 
